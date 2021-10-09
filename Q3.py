@@ -11,11 +11,11 @@ for i in range(t):
         index = rev.find(letter)
         realindex = n-1-index
         if (realindex >= n//2):
-            print(1)
+            print(11)
             print(realindex+1)
         else:
-            print(2)
+            print(12)
             print((n), " ", (n-1))
     else:
-        print(2)
+        print(23)
         print((n), " ", (n-1))
