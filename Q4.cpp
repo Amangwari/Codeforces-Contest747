@@ -58,9 +58,9 @@ int main()
     ios_base::sync_with_stdio(false);
     //cin.tie(0);cout.tie(0);
     //cout<<fixed<<setprecision(10);
-    int t;
-    cin>>t;
-    while(t--){
+    int p;
+    cin>>p;
+    while(p--){
         solve();
     }
     return 0;
